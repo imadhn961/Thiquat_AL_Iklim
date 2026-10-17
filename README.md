@@ -1,5 +1,8 @@
 # ثقة الإقليم (Thiqat Al Iqleem)
 
+<img width="376" height="789" alt="Screenshot 2026-10-17 164518" src="https://github.com/user-attachments/assets/1c7bbffb-a344-4a9a-88c7-6b45f519b7ad" />
+
+
 ## Main idea
 
 A two-sided local services marketplace, Arabic-first (RTL). Three roles share one platform:
