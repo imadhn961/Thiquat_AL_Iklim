@@ -1,0 +1,11 @@
+export '../../shared/auth/data/Repo/login_repository.dart';
+export '../../shared/auth/data/Repo/login_repository_impl.dart';
+export '../../shared/auth/data/Repo/register_repository.dart';
+export '../../shared/auth/data/Repo/register_repository_impl.dart';
+export '../../shared/auth/presentation/cubit/login_cubit.dart';
+export '../../shared/auth/presentation/cubit/login_state.dart';
+export '../../shared/auth/presentation/cubit/register_cubit.dart';
+export '../../shared/auth/presentation/cubit/register_state.dart';
+export '../../shared/auth/presentation/view/login_view.dart';
+export '../../shared/models/user_model.dart';
+export 'presentation/view/AuthView.dart';
